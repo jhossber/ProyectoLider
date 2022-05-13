@@ -1,0 +1,17 @@
+C:\INGSOFT\PROYECTOS\ProyectoLider\Codificacion\ProyectoLider\ProyectoLider\bin\Debug\ProyectoLider.exe.config
+C:\INGSOFT\PROYECTOS\ProyectoLider\Codificacion\ProyectoLider\ProyectoLider\bin\Debug\ProyectoLider.exe
+C:\INGSOFT\PROYECTOS\ProyectoLider\Codificacion\ProyectoLider\ProyectoLider\bin\Debug\ProyectoLider.pdb
+C:\INGSOFT\PROYECTOS\ProyectoLider\Codificacion\ProyectoLider\ProyectoLider\obj\Debug\ProyectoLider.csprojResolveAssemblyReference.cache
+C:\INGSOFT\PROYECTOS\ProyectoLider\Codificacion\ProyectoLider\ProyectoLider\obj\Debug\ProyectoLider.Form1.resources
+C:\INGSOFT\PROYECTOS\ProyectoLider\Codificacion\ProyectoLider\ProyectoLider\obj\Debug\ProyectoLider.Properties.Resources.resources
+C:\INGSOFT\PROYECTOS\ProyectoLider\Codificacion\ProyectoLider\ProyectoLider\obj\Debug\ProyectoLider.csproj.GenerateResource.Cache
+C:\INGSOFT\PROYECTOS\ProyectoLider\Codificacion\ProyectoLider\ProyectoLider\obj\Debug\ProyectoLider.exe
+C:\INGSOFT\PROYECTOS\ProyectoLider\Codificacion\ProyectoLider\ProyectoLider\obj\Debug\ProyectoLider.pdb
+C:\INGSOFT\PROYECTOS\ProyectoLider\Codificacion\ProyectoLider\ProyectoLider\obj\Debug\ProyectoLider.Menu.resources
+C:\INGSOFT\PROYECTOS\ProyectoLider\Codificacion\ProyectoLider\ProyectoLider\obj\Debug\ProyectoLider.Usuario.resources
+C:\INGSOFT\PROYECTOS\ProyectoLider\Codificacion\ProyectoLider\ProyectoLider\obj\Debug\ProyectoLider.Participante.resources
+C:\INGSOFT\PROYECTOS\ProyectoLider\Codificacion\ProyectoLider\ProyectoLider\obj\Debug\ProyectoLider.Certificado.resources
+C:\INGSOFT\PROYECTOS\ProyectoLider\Codificacion\ProyectoLider\ProyectoLider\obj\Debug\ProyectoLider.Docente.resources
+C:\INGSOFT\PROYECTOS\ProyectoLider\Codificacion\ProyectoLider\ProyectoLider\obj\Debug\ProyectoLider.Evento.resources
+C:\INGSOFT\PROYECTOS\ProyectoLider\Codificacion\ProyectoLider\ProyectoLider\obj\Debug\ProyectoLider.DocenteEvento.resources
+C:\INGSOFT\PROYECTOS\ProyectoLider\Codificacion\ProyectoLider\ProyectoLider\obj\Debug\ProyectoLider.Menus.resources
